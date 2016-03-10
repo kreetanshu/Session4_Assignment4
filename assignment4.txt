@@ -1,0 +1,15 @@
+1)Which is true according to Modules?
+ans c) Both
+
+2) How will you reverse a string?
+ans c) Using reverse method
+
+3) Integer can be divided into
+ans a) FixNum and BigNum
+
+4) What is the output of this code? 5.class
+ans b) Fixnum
+
+5) How you can define an array
+
+ans c) Both
